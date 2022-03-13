@@ -1,0 +1,10 @@
+/* CHATROOMPAGE */
+
+/*  CHAT  */
+.chat_container {
+  width: 500px;
+  height: 500px;
+  background-color: lightgray;
+  display: flex;
+  position: relative;
+}
